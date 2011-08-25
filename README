@@ -1,0 +1,10 @@
+Copyright netrox(sc) http://www.netroxsc.ru
+
+SCLOG - language for storing and interpreting logical trees
+
+License: Creative Commons Share Alike http://creativecommons.org/licenses/by-sa/2.5/
+
+Files description:
+sclog.php - SCLOG interpreter written in PHP
+sclog.js  - SCLOG visual tree editor for including into web pages
+sclog.zip - sample of sclog.js, can be seen at http://www.netroxsc.ru/pub/sclog
